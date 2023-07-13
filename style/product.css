@@ -1,0 +1,31 @@
+.product img{
+    width:250px;
+    height:250px;
+}
+
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    gap: 60px;
+    text-align: center;
+    align-items: center;
+    line-height: 10px;
+    width: 90%;
+    margin: 50px auto;
+}
+
+.product h1{
+    font-size: 1.2rem;
+    padding: 5px 0 0 0;
+}
+
+.product h2, .product h3{
+    font-size: 1rem;;
+    opacity: 0.6;
+}
+
+.product h5{
+    font-size: 1.6rem;
+}

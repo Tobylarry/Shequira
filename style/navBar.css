@@ -1,0 +1,36 @@
+body{
+    font-family: 'Noticia Text', serif;
+}
+.navBar{
+    display: flex;
+    justify-content:space-between;
+    justify-items:center;
+    align-items: center;
+    width:90%; 
+    margin: 10px auto;
+}
+
+.navBar a{
+    color: black;
+    font-size: 20px;
+}
+
+.navBar .logoNnav{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.navBar img{
+    width:150px;
+    height:120px;
+}
+
+.navBar .navigate ul li{
+    float: left;
+    list-style: none;
+    letter-spacing: 2px;
+    margin: 0 20px 0 0;
+
+}

@@ -1,0 +1,33 @@
+footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   overflow: hidden;
+}
+
+footer h6{
+    font-size: 20px;
+    padding: 20px 0 0 0;
+    
+}
+
+footer p{
+    font-size: 12px;
+    margin: 20px 0 0 0;
+}
+footer i {
+    margin: 0 10px 0 0;
+}
+
+footer span{
+    margin: 0 20px 0 0;
+    
+}
+
+footer .fa{
+   font-size: 23px;
+}
